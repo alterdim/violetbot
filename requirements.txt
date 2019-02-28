@@ -1,2 +1,2 @@
-discord
+-e git+git://github.com/Rapptz/discord.py.git@async#egg=discord
 asyncio
