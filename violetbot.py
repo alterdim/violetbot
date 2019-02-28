@@ -10,7 +10,6 @@ with open("config.json") as file:
 bot = commands.Bot(command_prefix=config['prefix'], description="None")
 
 
-
 @bot.event
 async def on_ready():
     print('Logged on as {0}!'.format(bot.user))
