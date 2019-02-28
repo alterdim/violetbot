@@ -1,1 +1,1 @@
-worker: python violetbot.py
+worker: python run.py
